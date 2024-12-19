@@ -174,7 +174,7 @@
 		</div>
 	</div>
   <div id="footerCopy">
-    <p><?php require_once $_SERVER["DOCUMENT_ROOT"] .  "/ssi/copyright.php" ?></p>
+    <p><?php // require_once $_SERVER["DOCUMENT_ROOT"] .  "/ssi/copyright.php" ?></p>
   </div>
 </footer>
 <input type="checkbox" id="disp-search" name="disp-search">
