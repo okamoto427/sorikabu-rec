@@ -100,6 +100,23 @@ body {
     padding: 0 20px;
   }
 }
+.make__wrap h5 {
+  width: 600px;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  color: #001A4C;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 1.7 !important;
+}
+@media screen and (max-width: 767px), print {
+  .make__wrap h5 {
+    width: auto;
+    padding: 0 20px;
+    font-size: 18px;
+  }
+}
 .make__img {
   width: 100%;
   display: block;
