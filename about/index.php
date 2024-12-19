@@ -109,7 +109,7 @@
         </h4>
         <figure><img src="./images/company/pickup-img04.jpg" alt=""></figure>
         <p>SDGsに貢献するためには何ができるか考え、様々な活動を行っています。</p>
-        <a href="https://www.youtube.com/watch?v=UqDV-zf_s8o" target="_blank">
+        <a href="https://sorimachigroup.jp/sdgs/" target="_blank">
           <span>詳細はこちら<img src="./images/company/arrow.png" alt=""></span>
         </a>
       </li>
@@ -120,7 +120,7 @@
         </h4>
         <figure><img src="./images/company/pickup-img05.jpg" alt=""></figure>
         <p>ソリマチ株式会社では各種企業認定を取得しています。長岡花火大会</p>
-        <a href="/about/certified.php" target="_blank">
+        <a href="https://www.sorimachi.co.jp/about/certified.php" target="_blank">
           <span>詳細はこちら<img src="./images/company/arrow.png" alt=""></span>
         </a>
       </li>
@@ -131,7 +131,7 @@
         </h4>
         <figure><img src="./images/company/pickup-img06.jpg" alt=""></figure>
         <p>新卒採用・キャリア採用の情報を掲載しています。新卒採用情報</p>
-        <a href="/about/recruit/">
+        <a href="https://www.sorimachi.co.jp/about/recruit/">
           <span>詳細はこちら<img src="./images/company/arrow.png" alt=""></span>
         </a>
       </li>
