@@ -45,7 +45,7 @@
         <div class="panel clearfix">
           <img src="/co_info/images/faceup_005.png" alt="ソリマチが大切にする8つのポイント" width="800" height="149" class="img_cent pc"/>
           <img src="/co_info/images/faceup_023.png" alt="ソリマチが大切にする8つのポイント" class="img_cent sp"/>
-          <h1>ソリマチがお客様を大切にし、感謝の気持ちを表す活動をご紹介します。</h1>
+          <h1 style="text-align: center;">ソリマチがお客様を大切にし、<br class="sp">感謝の気持ちを表す活動をご紹介します。</h1>
 
           <!-- <dl id="img01">
             <dt><span class="title">走って応援！エールラン</span><span class="sub_title">参加することで活動費を応援しています</span></dt>
