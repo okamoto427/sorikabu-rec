@@ -32,8 +32,7 @@
 
       <div id="block_a" class="stage">
         <div class="panel clearfix">
-          <h1>誰かのために</h1>
-          <h2>自分がやってもらって嬉しいことを、<br class="br-sp">何よりもまずお客様へ</h2>
+          <h1 style="margin-bottom: 40px">誰かのために</h1>
           <img src="/co_info/images/faceup_002.jpg" alt="お客様の喜びを喜びに" width="350" height="350" class="sub_logo"/>
           <img src="/co_info/images/faceup_003.png" alt="ソリマチ株式会社" width="250" height="73" class="sub_img"/>
           <p>1954年の創業以来、私たちはお客様にただ喜んでいただきたくて、いつもベストを尽くしてきました。お客様に笑顔になっていただきたい、喜んでいただきたい、幸せになっていただきたい。「私たちが何をどうしたらお客様に喜んでいただけるのか？」を常に考え行動します。</p>
@@ -46,7 +45,7 @@
         <div class="panel clearfix">
           <img src="/co_info/images/faceup_005.png" alt="ソリマチが大切にする8つのポイント" width="800" height="149" class="img_cent pc"/>
           <img src="/co_info/images/faceup_023.png" alt="ソリマチが大切にする8つのポイント" class="img_cent sp"/>
-          <h1>ブランドスローガンである「お客様の喜びを喜びに」の他に、ソリマチがお客様を大切にし、感謝の気持ちを表す活動をご紹介します。</h1>
+          <h1>ソリマチがお客様を大切にし、感謝の気持ちを表す活動をご紹介します。</h1>
 
           <!-- <dl id="img01">
             <dt><span class="title">走って応援！エールラン</span><span class="sub_title">参加することで活動費を応援しています</span></dt>

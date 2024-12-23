@@ -53,7 +53,7 @@
       </p>
       <h5>
         全国約10万件の農業会計データと<br>
-        約7万件の中小企業・小規模事業者の会計データを運用中！
+        約7万件の中小企業・小規模事業者の<br class="sp">会計データを運用中！
       </h5>
     </div>
     <picture class="make__img">
@@ -119,7 +119,7 @@
           <small>Certifications</small>
         </h4>
         <figure><img src="./images/company/pickup-img05.jpg" alt=""></figure>
-        <p>ソリマチ株式会社では各種企業認定を取得しています。長岡花火大会</p>
+        <p>ソリマチ株式会社では各種企業認定を取得しています。</p>
         <a href="https://www.sorimachi.co.jp/about/certified.php" target="_blank">
           <span>詳細はこちら<img src="./images/company/arrow.png" alt=""></span>
         </a>
@@ -130,7 +130,7 @@
           <small>Recruit</small>
         </h4>
         <figure><img src="./images/company/pickup-img06.jpg" alt=""></figure>
-        <p>新卒採用・キャリア採用の情報を掲載しています。新卒採用情報</p>
+        <p>新卒採用・キャリア採用の情報を掲載しています。</p>
         <a href="https://www.sorimachi.co.jp/about/recruit/">
           <span>詳細はこちら<img src="./images/company/arrow.png" alt=""></span>
         </a>
