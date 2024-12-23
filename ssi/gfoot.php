@@ -20,7 +20,7 @@
       <dd><a href="/lp-network/">ネットワーク製品</a></dd>
       <dd><a href="/lp-trial/">30日無料版</a></dd>
       <dd><a href="/products_gyou/demo_seminar/" target="_blank">店頭デモ・セミナー</a></dd>
-      <!--<dd><a href="/co_info/request/request.php?category=web&amp;page=index&amp;point=hd0" target="_blank">資料請求</a></dd>-->
+      <dd><a href="/co_info/request/request.php?category=web&amp;page=index&amp;point=hd0" target="_blank">資料請求</a></dd>
       <dd><a href="/purchase.php">購入について</a></dd>
       <dd><a href="/products_gyou/case/">導入事例</a></dd>
       <dd><a href="/shop/" target="_blank">公式オンラインショップ</a></dd>

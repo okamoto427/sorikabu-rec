@@ -1,15 +1,15 @@
 <?php
-  // require_once $_SERVER["DOCUMENT_ROOT"]."/../common_files/webserver_flg.php";
-  // require_once $_SERVER["DOCUMENT_ROOT"]."/../common_files/external_websites.php";
+  require_once $_SERVER["DOCUMENT_ROOT"]."/../common_files/webserver_flg.php";
+  require_once $_SERVER["DOCUMENT_ROOT"]."/../common_files/external_websites.php";
   $LocationCategory = "accstd";
   $LocationPage = "index";
 ?>
 <?php require_once "../ssi/head/nomal1.php" ?>
     <title>ソリマチ株式会社について｜ソリマチ株式会社</title>
-<link href="https://www.sorimachi.co.jp/common/style/import_gl.css" rel="stylesheet" type="text/css" media="all">
+<link href="/common/style/import_gl.css" rel="stylesheet" type="text/css" media="all">
     <script src="/about/js/wow.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lity/1.6.6/lity.js"></script>  
-    <link href="https://www.sorimachi.co.jp/about/style/animate.css" rel="stylesheet">
+    <link href="/about/style/animate.css" rel="stylesheet">
     <link href="/about/style/about_style_renew.css" rel="stylesheet" media="all">
     <link href="https://fonts.googleapis.com/earlyaccess/notosansjapanese.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre:400,600" rel="stylesheet">

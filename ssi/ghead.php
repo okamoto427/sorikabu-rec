@@ -1,4 +1,4 @@
-<?php // require_once $_SERVER["DOCUMENT_ROOT"] .  "/ssi/gtm-noscript.php" ?>
+<?php require_once $_SERVER["DOCUMENT_ROOT"] .  "/ssi/gtm-noscript.php" ?>
 <!--/ ghead start /-->
 <input type="checkbox" id="cbxGlhMenu" name="cbxGlhMenu">
 <input type="checkbox" id="cbxGlhCtg01" name="cbxGlhCtg01">

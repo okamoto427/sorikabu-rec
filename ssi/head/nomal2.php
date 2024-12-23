@@ -3,4 +3,4 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
 <link rel="shortcut icon" href="/favicon.ico">
 <script type="text/javascript" src="/common/js/jquery-1.8.2.min.js"></script>
-<?php // require_once $_SERVER["DOCUMENT_ROOT"] .  "/ssi/gtmjs.php" ?>
+<?php require_once $_SERVER["DOCUMENT_ROOT"] .  "/ssi/gtmjs.php" ?>
